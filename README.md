@@ -19,7 +19,7 @@ i "https://i.imgur.com/Ft3UZ7W.jpg"
 
 q "**Name the House!**" 
 a "House Farwynd of the Lonely Light", "House Farwynd", "Farwynd"
-i "https://i.imgur.com/bd16eLr.jpg"
+i "https://i.imgur.com/Ft3UZ7W.jpg"
 
 q "**The First Men first arrived in Westeros via which passageway?**"
 a "Arm of Dorne", "Broken Arm of Dorne", "Broken Arm"
@@ -50,7 +50,7 @@ a "The Boneway", "Boneway"
 
 q "**Name the House!**" 
 a "House Cerywn", "Cerwyn"
-i "https://i.imgur.com/4GAA7m4.jpg"
+i "https://i.imgur.com/wBwrEYI.jpg"
 
 q "**Name the House!**" 
 a "House Westerling", "Westerling"
@@ -61,7 +61,7 @@ a "The Knight of the Laughing Tree", "Knight of the Laughing Tree"
 
 q "Name the House!**"
 a "House Yronwood", "Yronwood"
-i
+i "https://i.imgur.com/5sib1JM.jpg"
 
 q "**When crowned by his sisters, Aegon the Conqueror was styled by Rhaenys as the King of ________**"
 a "All Westeros"
@@ -89,15 +89,15 @@ a "Mycah"
 
 q "**Name the Character!**"
 a "Sally"
-i
+i "https://i.imgur.com/rPUlb0e.jpg"
 
 q "**Name the Character!**"
 a "Ser Vardis Egen", "Vardis Egen", "Vardis"
-i
+i "https://i.imgur.com/MEPw2Uq.jpg"
 
 q "**Name the Character!**"
 a "Lord Mace Tyrell", "Mace Tyrell", "Mace", "Mace the Ace"
-i 
+i "https://i.imgur.com/MQlfL4a.jpg"
 
 q "**Prince Duncan Targaryen defeated whom at the Tourney at Blackhaven?**" 
 a "Ser Barristan Selmy", "Barristan Selmy", "Barristan"
@@ -122,11 +122,11 @@ a "Septon Meribald", "Meribald"
 
 q "**Name the Character!**"
 a "Maester Wolkan", "Wolkan"
-i
+i "https://i.imgur.com/vF9Xy5E.jpg"
 
 q "**Name the Character!**" 
-a "Roslin Frey" "Roslin"
-i
+a "Roslin Tully", "Roslin", "Roslin Frey"
+i "https://i.imgur.com/kF3Bl66.jpg"
 
 q "**Who was nicknamed the Red Lion of Castamere?**"
 a "Lord Roger Reyne", "Roger Reyne"
