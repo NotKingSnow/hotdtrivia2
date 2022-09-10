@@ -141,7 +141,7 @@ q "**Lemonwood is the seat of which House?**"
 a "House Dalt", "Dalt"
 
 q "**Evenfall Hall is the seat of which House?**"
-a "House Tarth", "Tarth"
+a "House Tarth"
 
 q "**What man-made wonder of the known world is located in Norvos?**"
 q "The Three Bells", "Three Bells"
