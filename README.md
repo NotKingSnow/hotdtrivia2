@@ -54,7 +54,7 @@ i "https://i.imgur.com/4GAA7m4.jpg"
 
 q "**Name the House!**" 
 a "House Westerling", "Westerling"
-i
+i "https://i.imgur.com/yYCapyZ.jpg"
 
 q "**In A Storm of Swords, Meera Reed tells Bran Stark the story of what Mystery Knight?**" 
 a "The Knight of the Laughing Tree", "Knight of the Laughing Tree"
