@@ -19,7 +19,7 @@ i "https://i.imgur.com/Am7XKND.jpg"
 
 q "**Name the House!**" 
 a "House Farwynd of the Lonely Light", "House Farwynd", "Farwynd"
-i 
+i "https://i.imgur.com/bd16eLr.jpg"
 
 q "**The First Men first arrived in Westeros via which passageway?**"
 a "Arm of Dorne", "Broken Arm of Dorne", "Broken Arm"
@@ -50,7 +50,7 @@ a "The Boneway", "Boneway"
 
 q "**Name the House!**" 
 a "House Cerywn", "Cerwyn"
-i
+i "https://i.imgur.com/4GAA7m4.jpg"
 
 q "**Name the House!**" 
 a "House Westerling", "Westerling"
