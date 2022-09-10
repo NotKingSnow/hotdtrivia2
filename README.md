@@ -21,169 +21,170 @@ q "**Name the House!**"
 a "House Farwynd of the Lonely Light", "House Farwynd", "Farwynd"
 i 
 
-The First Men first arrived in Westeros via which passageway? 
-Arm of Dorne/Broken Arm (accept both)
+q "**The First Men first arrived in Westeros via which passageway?**"
+a "Arm of Dorne", "Broken Arm of Dorne", "Broken Arm"
 
-Which Khal was killed by the Three Thousand Unsullied of Qohor?: 
-Temmo
+q "**Which Khal was killed by the Three Thousand Unsullied of Qohor?**"
+a "Khal Temmo", "Temmo"
 
-What God is recognized by the people of Qohor?: 
-The Black Goat
+q "**What God is recognized by the people of Qohor?**"
+a "The Black Goat", "Black Goat"
 
-What is the westernmost castle on the Wall?: 
-Westwatch-By-The-Bridge
+q "**What is the westernmost castle on the Wall?**" 
+a "Westwatch-By-The-Bridge", "Westwatch", "Westwatch by the Bridge"
 
-At the end of A Dance with Dragons, what is the recognized Great House of the Riverlands?: 
-House Baelish of Harrenhal
+q "**At the end of A Dance with Dragons, what is the recognized Great House of the Riverlands?**" 
+a "House Baelish of Harrenhal", "House Baelish", "Baelish", "Baelish of Harrenhal"
 
-What former castle serves as a prison in White Harbor?: 
-The Wolf’s Den/The Den (accept both)
+q "**What former castle serves as a prison in White Harbor?**" 
+a "The Wolf’s Den", "The Den"
 
-House Manderly emigrated to the North from which Westerosi region?: 
-The Reach
+q "**House Manderly emigrated to the North from which Westerosi region?**" 
+a "The Reach", "Reach"
 
-What House, created by D&D, fought in the Battle of the Bastards?: 
-House Mazin
+q "**What House, created by D&D, fought in the Battle of the Bastards?**" 
+a "House Mazin", "Mazin"
 
-Baelor the Blessed walked barefoot through which Dornish pass?: 
-The Boneway
+q "**Baelor the Blessed walked barefoot through which Dornish pass?**" 
+a "The Boneway", "Boneway"
 
-Name the House!: 
-Cerywn
+q "**Name the House!**" 
+a "House Cerywn", "Cerwyn"
+i
 
+q "**Name the House!**" 
+a "House Westerling", "Westerling"
+i
 
-Name the House!: 
-Westerling
+q "**In A Storm of Swords, Meera Reed tells Bran Stark the story of what Mystery Knight?**" 
+a "The Knight of the Laughing Tree", "Knight of the Laughing Tree"
 
+q "Name the House!**"
+a "House Yronwood", "Yronwood"
+i
 
-In A Storm of Swords, Meera Reed tells Bran Stark the story of what Mystery Knight?: 
-The Knight of the Laughing Tree
+q "**When crowned by his sisters, Aegon the Conqueror was styled by Rhaenys as the King of ________**"
+a "All Westeros"
 
-Name the House!: 
-Yronwood
+q "**Yeen is built entirely out of what material?**"
+a "Oily Black Stone", "Black Stone"
 
+q "**In Game of Thrones, who is the character Varys conspires with to place Viserys on the Iron Throne?**" 
+a "Illyrio Mopatis", "Illyrio"
 
-When crowned by his sisters, Aegon the Conqueror was styled by Rhaenys as the “King of ________”: 
-All Westeros
+q "**By the end of Game of Thrones, how many of the direwolves found in season one are still alive?**" 
+a "Two", "2"
 
-Yeen is built entirely out of what material?: 
-Black Stone/Oily Black Stone
+q "**Who was the Captain of the Guards for House Stark in Season One of Game of Thrones?**" 
+a "Jory Cassel", "Jory"
 
-In Game of Thrones, who is the character Varys conspires with to place Viserys on the Iron Throne?: 
-Illyrio Mopatis
+q "**In Season Five, Janos Slynt refuses to take command of which castle on the wall?**" 
+a "Greyguard"
 
-By the end of Game of Thrones, how many of the direwolves found in season one are still alive?: 
-Two
+q "**In Season Six, how many men are hung by Jon Snow following his assassination?**" 
+a "Four", "4"
 
-Who was the Captain of the Guards for House Stark in Season One of Game of Thrones?: 
-Jory Cassel
+q "**In Season Three, Sandor Clegane is sentenced to a Trial by Combat for the murder of whom?**"
+a "Mycah"
 
-In Season Five, Janos Slynt refuses to take command of which castle on the wall?: 
-Greyguard
+q "**Name the Character!**"
+a "Sally"
+i
 
-In Season Six, how many men are hung by Jon Snow following his assassination?: 
-Four
+q "**Name the Character!**"
+a "Ser Vardis Egen", "Vardis Egen", "Vardis"
+i
 
-In Season Three, Sandor Clegane is sentenced to a Trial by Combat for the murder of whom?:
-Mycah
+q "**Name the Character!**"
+a "Lord Mace Tyrell", "Mace Tyrell", "Mace", "Mace the Ace"
+i 
 
-Name the Character!: 
-Sally (farmer’s daughter)
+q "**Prince Duncan Targaryen defeated whom at the Tourney at Blackhaven?**" 
+a "Ser Barristan Selmy", "Barristan Selmy", "Barristan"
 
+q "**Who was the last known wielder of the Valyrian Steel sword Brightroar?**" 
+a "Tommen II Lannister", "Tommen Lannister"
 
-Name the Character!: 
-Ser Vardis Egen
+q "**The Valyrian Steel sword Lady Forlorn belongs to which House?**"
+a "House Corbray", "Corbray"
 
+q "**Goldengrove is the seat of which House?**" 
+a "House Rowan", "Rowan"
 
-Name the Character!: 
-Mace Tyrell
+q "**What Essosi people are distinguished by their pointed skulls?**" 
+a "Jogos Nhai"
 
+q "**In A Storm of Swords, who retrieves Catelyn Stark’s body from the Green Fork?**"
+a "Nymeria"
 
-Prince Duncan Targaryen defeated whom at the Tourney at Blackhaven?: 
-Ser Barristan Selmy
+q "**In A Feast for Crows, who tells the story of The Broken Man?:**" 
+a "Septon Meribald", "Meribald"
 
-Who was the last known wielder of the Valyrian Steel sword Brightroar?: 
-Tommen Lannister
+q "**Name the Character!**"
+a "Maester Wolkan", "Wolkan"
+i
 
-The Valyrian Steel sword Lady Forlorn belongs to which House?: 
-Corbray
+q "**Name the Character!**" 
+a "Roslin Frey" "Roslin"
+i
 
-Goldengrove is the seat of which House?: 
-Rowan
+q "**Who was nicknamed the Red Lion of Castamere?**"
+a "Lord Roger Reyne", "Roger Reyne"
 
-What Essosi people are distinguished by their pointed skulls?: 
-Jogos Nhai
+q "**Ashemark is the seat of which House?**"
+a "House Marbrand", "Marbrand"
 
-In A Storm of Swords, who retrieves Catelyn Stark’s body from the Green Fork?:
-Nymeria
+q "**Deepwood Motte is the seat of which House?**" 
+a "House Glover", "Glover"
 
-In A Feast for Crows, who tells the story of The Broken Man?: 
-Septon Meribald/Meribald
+q "**Lemonwood is the seat of which House?**"
+a "House Dalt", "Dalt"
 
-Name the Character!:
-Maester Wolkan/Wolkan
+q "**Evenfall Hall is the seat of which House?**"
+a "House Tarth", "Tarth"
 
+q "**What man-made wonder of the known world is located in Norvos?**"
+q "The Three Bells", "Three Bells"
 
-Name the Character!: 
-Roslin Frey
+q "**In Game of Thrones, in what city does Jorah Mormont abduct Tyrion Lannister?**"
+a "Volantis"
 
+q "**In A Storm of Swords, the Ghost of High Heart requests Tom of Sevenstreams play what song?**" 
+a "Jenny’s Song", "Jenny of Oldstones"
 
-Who was nicknamed the Red Lion of Castamere?: 
-Lord Roger Reyne
+q "**Lord Harroway’s Town is the seat of which House?**" 
+a "House Roote", "Roote"
 
-Ashemark is the seat of which House?: 
-Marbrand
+q "**In The Winds of Winter, Arianne Martell plays what game while on her way to Jon Connington?**"
+a "Cyvasse"
 
-Deepwood Motte is the seat of which House?: 
-Glover
+q "**In House of the Dragon, Lord Boremund Baratheon asks for the favor of whom during the Heir’s Tourmanent?**" 
+a "Princess Rhaenys Targaryen"
 
-Lemonwood is the seat of which House?:
-Dalt
+q "**In House of the Dragon, what dragon lights the funeral pyres of Queen Aemma and Prince Baelon?**" 
+a "Syrax"
 
-Evenfall Hall is the seat of which House?: 
-Tarth
+q "**In A Feast For Crows, Brienne is looking for a maid of what age?**"
+a "Three-and-ten"
 
-What man-made wonder of the known world is located in Norvos?: 
-Three Bells
+q "**House Lannister claims descent from what Ages of Heroes figure?**"
+a "Lann the Clever", "Lann"
 
-In Game of Thrones, in what city does Jorah Mormont abduct Tyrion Lannister?:
-Volantis
+q "**The Kingsroad’s southern starting point is at what castle?**" 
+a "Storm’s End", "Storms End"
 
-In A Storm of Swords, the Ghost of High Heart requests Tom of Sevenstreams play what song?: 
-Jenny’s Song/Jenny of Oldstones
+q "**Who was the Thirteenth Lord Commander of the Night’s Watch?**" 
+a "The Night’s King", "The Nights King", "Night's King", "Nights King"
 
-Lord Harroway’s Town is the seat of which House?: 
-Roote
+q "**In A Dance With Dragons, who tasked Davos Seaworth with finding Rickon Stark?**" 
+a "Lord Wyman Manderly", "Wyman Manderly", "Wyman"
 
-In The Winds of Winter, Arianne Martell plays what game while on her way to Jon Connington?: 
-Cyvasse
+q "**In A Storm of Swords, King Robb Stark sends two of his bannermen to locate Howland Reed. Name one!**" 
+a "Maege Mormont and Galbart Glover", "Maege Mormont", "Galbart Glover", "Maege", "Galbart"
 
-In House of the Dragon, Lord Boremund Baratheon asks for the favor of whom during the Heir’s Tourmanent?: 
-Princess Rhaenys Targaryen
+q "**What are the words of House Hightower?**"
+a "We Light The Way"
 
-In House of the Dragon, what dragon lights the funeral pyres of Queen Aemma and Prince Baelon?: 
-Syrax
-
-In A Feast For Crows, Brienne is looking for a maid of what age?: 
-Three-and-ten
-
-House Lannister claims descent from what Ages of Heroes figure?:
-Lann the Clever
-
-The Kingsroad’s southern starting point is at what castle?: 
-Storm’s End
-
-Who was the Thirteenth Lord Commander of the Night’s Watch?: 
-The Night’s King
-
-In A Dance With Dragons, who tasked Davos Seaworth with finding Rickon Stark?: 
-Lord Wyman Manderly
-In A Storm of Swords, King Robb Stark sends two of his bannermen to locate Howland Reed. Name one!: 
-Maege Mormont and Galbart Glover
-
-What are the words of House Hightower?:
-We Light The Way
-
-What are the words of House Arryn?: 
-As High As Honor
+q "**What are the words of House Arryn?**" 
+a "As High As Honor"
 
