@@ -141,10 +141,10 @@ q "**Lemonwood is the seat of which House?**"
 a "House Dalt", "Dalt"
 
 q "**Evenfall Hall is the seat of which House?**"
-a "House Tarth"
+a "House Tarth", "Tarth"
 
 q "**What man-made wonder of the known world is located in Norvos?**"
-q "The Three Bells", "Three Bells"
+a "The Three Bells", "Three Bells"
 
 q "**In Game of Thrones, in what city does Jorah Mormont abduct Tyrion Lannister?**"
 a "Volantis"
